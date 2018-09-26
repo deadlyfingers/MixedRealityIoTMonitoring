@@ -58,3 +58,6 @@ Editor/Vuforia
 Editor/Vuforia.meta
 QCAR
 QCAR.meta
+
+# Vuforia config
+Assets/Resources/VuforiaConfiguration.asset
